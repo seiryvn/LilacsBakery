@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Bread
+  - Cream
+  - Fruits
+  - Dough
+  - Icing
+  - Sprinkles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - SolidObjects
+  - Interactable
+  - Indicator
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2560710215
+    locked: 0
+  - name: Foreground
+    uniqueID: 3691804783
+    locked: 0
+  - name: Collision
+    uniqueID: 3377674041
+    locked: 0
+  - name: Decor
+    uniqueID: 1416184967
+    locked: 0
+  - name: InvisibleBlocks
+    uniqueID: 635736841
+    locked: 0
+  - name: Player
+    uniqueID: 3842075663
+    locked: 0
+  - name: Interactables
+    uniqueID: 383697439
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 3828557783
+    locked: 0
+  - name: NPC
+    uniqueID: 3318181683
+    locked: 0
